@@ -1,8 +1,8 @@
 # Everyone welcome everyone welcomed
 
-A bit of everything and nothing
+A bit of everything and nothing at the same time
 
-interests:
+Interests:
 - astrology ✨ 
 - dancing 💃 
 - music and sound 🎶 
@@ -10,7 +10,7 @@ interests:
 - cycling 🚴‍♀️ 
 - running 🏃‍♀️ 
 - swimming 🏊‍♀️
-- surfing 🏄‍♀️ and other forms of riding waves
+- surfing 🏄‍♀️ and other forms of boarding
 - art in all forms 🖼️ 
 - house plants and plant based eating 🪴 
 - nature 🌱 
