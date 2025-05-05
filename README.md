@@ -1,6 +1,4 @@
-# Everyone welcome everyone welcomed
-
-A bit of everything and nothing at the same time
+# A bit of everything and nothing at the same time
 
 ---
 
