@@ -9,7 +9,6 @@ A frontend web developer with a passion for building clean, accessible, and crea
 
 ## 🔗 Projects worth checking out
 
-
 - 🍃 [Alchevita – Herbal Remedy Finder](https://alchevita-azure.vercel.app)  
   A React/NextJs/MongoDB app for browsing natural remedies based on ailments — built with a clean UI and a focus on accessibility deployed on Vercel.
 
@@ -24,10 +23,13 @@ A frontend web developer with a passion for building clean, accessible, and crea
 - 💼 [LinkedIn](https://www.linkedin.com/in/sara-zmak)  
 - 📩 You can reach me at: zmaksara@gmail.com
 
+## 📄 My Resume
+
+- [View my resume on Enhancv](https://app.enhancv.com/share/81704a3f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+
 ---
 
 Thanks for stopping by!
-
 
 ---
 
