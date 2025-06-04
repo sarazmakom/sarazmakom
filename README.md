@@ -15,7 +15,7 @@ A frontend web developer with a passion for building clean, accessible, and crea
 - 🎨 [Color Theme Creator](https://color-theme-creator-one.vercel.app)  
   A handy tool to generate harmonious color palettes, made for frontend devs and designers alike, deployed on Vercel.
 
-- 👾 [Rick & Morty Space Invaders](https://sarazmakom.github.io/rick-and-morty-app/)  
+- 👾 [Rick & Morty App](https://sarazmakom.github.io/rick-and-morty-app/)  
   A fun collaborative project made using HTML/CSS/JS.
 
 ## 🤝 Let's connect
