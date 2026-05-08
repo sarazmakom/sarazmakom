@@ -21,7 +21,7 @@ A Front End Web Developer with a passion for building clean, accessible, and cre
 ## Let's connect
 
 - [LinkedIn](https://www.linkedin.com/in/sara-zmak)  
-- 📩 email: zmaksara@gmail.com
+- email: zmaksara@gmail.com
 
 ## My Resume
 
