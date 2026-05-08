@@ -1,6 +1,6 @@
 # Hi, I'm Sara Zmak
 
-A frontend web developer with a passion for building clean, accessible, and creative web experiences — and a background that connects tech with art, music, and culture.
+A Front End Web Developer with a passion for building clean, accessible, and creative web experiences — and a background that connects tech with art, music, and culture.
 
 - I specialize in **React**, **JavaScript**, **CSS**, and responsive design.
 - I'm especially interested in projects at the intersection of **technology + creativity**: digital storytelling, interactive design, music tech, and cultural platforms.
@@ -23,7 +23,7 @@ A frontend web developer with a passion for building clean, accessible, and crea
 - [LinkedIn](https://www.linkedin.com/in/sara-zmak)  
 - 📩 email: zmaksara@gmail.com
 
-## 📄 My Resume
+## My Resume
 
 - [View my resume on Enhancv](https://app.enhancv.com/share/81704a3f/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
